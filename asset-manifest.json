@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.4ff73ef8.css",
+    "main.js": "/portfolio-app/static/js/main.579a876b.js",
+    "static/media/social-media-marketing.jpg": "/portfolio-app/static/media/social-media-marketing.b525cf33941de28482c9.jpg",
+    "static/media/gym.png": "/portfolio-app/static/media/gym.37100bd920624514d2f9.png",
+    "static/media/cv.pdf": "/portfolio-app/static/media/cv.112e43091b9635d2ff3c.pdf",
+    "static/media/quiz.jpg": "/portfolio-app/static/media/quiz.eb9040f0dde45a604842.jpg",
+    "static/media/weather.png": "/portfolio-app/static/media/weather.83901117990bc7c99d88.png",
+    "static/media/Headshot.jpg": "/portfolio-app/static/media/Headshot.4794766a80f292f651fd.jpg",
+    "static/media/web0.png": "/portfolio-app/static/media/web0.e04ecb3d811ce3378425.png",
+    "static/media/pwa.png": "/portfolio-app/static/media/pwa.26285ae2475bf5610723.png",
+    "static/media/password.png": "/portfolio-app/static/media/password.aa25cbf89939def02f6b.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.4ff73ef8.css.map": "/portfolio-app/static/css/main.4ff73ef8.css.map",
+    "main.579a876b.js.map": "/portfolio-app/static/js/main.579a876b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ff73ef8.css",
+    "static/js/main.579a876b.js"
+  ]
+}
