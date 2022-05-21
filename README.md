@@ -10,7 +10,7 @@ Use the link to the deployed <a href="https://jamillerooks.github.io/portfolio-a
 
 ## Mockup: 
 
-<img src="./portfolio-app/src/assets/mockup.png" alt="Mockup of portfolio website">
+<img src="./src/assets/mockup.png" alt="Mockup of portfolio website">
 
 ## Contribution Guidelines
 Your suggestions and comments are welcome on the portfolio. 
